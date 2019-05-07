@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#top {
+    font-size: 32px;
+    font-weight: bold;
+    color: blue;
+}
+
+#middle {
+    font-size: 24px;
+}
+
+#buttom {
+    font-size: 12px;
+}
